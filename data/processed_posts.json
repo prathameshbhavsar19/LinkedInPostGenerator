@@ -1,0 +1,312 @@
+[
+    {
+        "caption": "\ud83d\udd25 Fireworks AI has been recognized as one of the industry's most promising private companies, on Wing Venture Capital 's Enterprise Tech 30 list.\n\nIf you are building scalable GenAI applications, and want your workloads optimized for speed, cost, and quality, HMU \ud83e\udd1d",
+        "engagement": 59,
+        "line_count": 2,
+        "topic": "Fireworks AI recognized as a promising private company for scalable GenAI applications",
+        "tags": [
+            "Artificial Intelligence",
+            "GenAI"
+        ]
+    },
+    {
+        "caption": "\ud83e\udd16 All You Need to Know About MCP (Model Context Protocol)\n\nMCP (Model Context Protocol), developed by Anthropic in Nov 2024, is now getting all the eye-balls by the AI engineering community. So here is a quick summary of all you need to know \ud83d\udc47\n\n\ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf6\ud835\ude00 \ud835\udde0\ud835\uddd6\ud835\udde3\u2753\u21b3 MCP is an open protocol helping AI easily connect to external data sources, tools, and systems.\u21b3 It solves a key limitation of AI models by allowing real-time, dynamic data access beyond static training datasets.\u21b3 MCP automatically discovers and connects to new data sources without manual setup, making AI integrations fast and scalable.\n\n\ud835\uddea\ud835\uddf5\ud835\ude06 \ud835\udde0\ud835\uddd6\ud835\udde3 \ud835\udde0\ud835\uddee\ud835\ude01\ud835\ude01\ud835\uddf2\ud835\uddff\ud835\ude00\u2753\u21b3 Traditional methods required custom integrations for each external data source or tool, making systems cumbersome and hard to scale.\u21b3 MCP provides a standardized, simpler way to connect AI models with the external world.\n\n\ud835\udddb\ud835\uddfc\ud835\ude04 \ud835\udde0\ud835\uddd6\ud835\udde3 \ud835\uddea\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\ude00\u2753\u21b3 Dynamic discovery: AI models automatically detect and use available MCP connectors without pre-configured setups.\u21b3 Universal compatibility: Works with multiple models, including DeepSeek, Llama, Claude, and all other LLMs/SLMs (It's model agnostic).\n\n\ud835\uddd5\ud835\uddf2\ud835\uddfb\ud835\uddf2\ud835\uddf3\ud835\uddf6\ud835\ude01\ud835\ude00 \ud835\uddfc\ud835\uddf3 \ud835\udde0\ud835\uddd6\ud835\udde3 \u21b3 Simplicity: Reduces complexity by eliminating extensive custom coding.\u21b3 Scalability: Allows quick scaling as new external resources become available.\u21b3 Versatility: Capable of dynamically connecting a broad spectrum of external data sources and services.\n\n\ud835\uddd4\ud835\uddf1\ud835\uddfc\ud835\uddfd\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\uddd9\ud835\ude02\ud835\ude01\ud835\ude02\ud835\uddff\ud835\uddf2 \u21b3 Adopted by industry leaders like Block, Replit, Sourcegraph, with a rapidly growing community.\u21b3 Upcoming features: enhanced multi-agent collaboration, IoT integration, personalized AI assistants, remote servers, OAuth support, and improved streaming.\n\n\ud835\udde5\ud835\uddf2\ud835\uddee\ud835\uddf9-\ud835\udddf\ud835\uddf6\ud835\uddf3\ud835\uddf2 \ud835\uddd4\ud835\uddfd\ud835\uddfd\ud835\uddf9\ud835\uddf6\ud835\uddf0\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00 \ud83d\udc99 \u21b3 Checkout the Multi-agent Autonomous Driving System I have showcase below that utilizes MCP to streamline the end-to-end-workflow\n\n\ud835\udded\ud835\uddee\ud835\uddfd\ud835\uddf6\ud835\uddf2\ud835\uddff \ud835\udde0\ud835\uddd6\ud835\udde3 \ud835\udddc\ud835\uddfb\ud835\ude01\ud835\uddf2\ud835\uddf4\ud835\uddff\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \u26a1 \u21b3 Zapier MCP connects your AI assistant directly to over 7,000 apps and 30,000 actions\u2014without complicated API setups.\n\u21b3 Your AI can now handle practical tasks like messaging, scheduling, and data management, turning it into a powerful productivity tool.\n\n\ud83d\udc49 Step 1: Generate your MCP endpoint quickly and securely.\ud83d\udc49 Step 2: Select actions your AI can perform (e.g., Slack messages, calendar events).\ud83d\udc49 Step 3: Connect your AI assistant seamlessly.\n\nIt's easy to set up, even with minimal coding experience. Try it out for yourself: https://bit.ly/4hHivnS\n\n\ud835\udde3\ud835\udde6: \ud835\udddc'\ud835\uddf9\ud835\uddf9 \ud835\ude00\ud835\uddfc\ud835\uddfc\ud835\uddfb \ud835\ude00\ud835\uddf5\ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\uddee \ud835\uddfd\ud835\uddf2\ud835\uddff\ud835\ude00\ud835\uddfc\ud835\uddfb\ud835\uddee\ud835\uddf9 \ud835\uddfd\ud835\uddff\ud835\uddfc\ud835\uddf7\ud835\uddf2\ud835\uddf0\ud835\ude01 \ud835\ude02\ud835\ude00\ud835\uddf6\ud835\uddfb\ud835\uddf4 \ud835\udde0\ud835\uddd6\ud835\udde3 \ud835\uddee\ud835\uddfb\ud835\uddf1 \ud835\udded\ud835\uddee\ud835\uddfd\ud835\uddf6\ud835\uddf2\ud835\uddff \ud835\ude01\ud835\uddfc \ud835\uddf0\ud835\uddff\ud835\uddf2\ud835\uddee\ud835\ude01\ud835\uddf2 \ud835\uddfa\ud835\ude06 \ud835\uddf1\ud835\uddee\ud835\uddf6\ud835\uddf9\ud835\ude06 \ud835\uddfd\ud835\uddff\ud835\uddf6\ud835\uddfc\ud835\uddff\ud835\uddf6\ud835\ude01\ud835\uddf6\ud835\ude07\ud835\uddee\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb \ud835\uddf0\ud835\uddf5\ud835\uddee\ud835\uddff\ud835\ude01\u2014\ud835\ude00\ud835\ude01\ud835\uddee\ud835\ude06 \ud835\ude01\ud835\ude02\ud835\uddfb\ud835\uddf2\ud835\uddf1 \ud83d\udc99",
+        "engagement": 137,
+        "line_count": 34,
+        "topic": "Introduction to Model Context Protocol (MCP) and its applications",
+        "tags": [
+            "Artificial Intelligence",
+            "Model Context Protocol"
+        ]
+    },
+    {
+        "caption": "Did OpenAI just kill the careers of designers and illustrators?\n\nI see a lot of these posts with this claim \ud83d\udc46 , so here's my take \ud83d\udc47\n\nOpenAI recently introduced a new image generation model as a part of GPT-4o, combining remarkable capabilities in text and image generation. We have all tried Studio Ghibli styles at this point for our personal images (Huge fan!)\n\nTruth: It will disrupt careers and transform the creative landscape!\n\nHowever, claiming this advancement \"kills\" careers misses a crucial point: tools enhance creativity; they rarely replace it outright. \n\nThis new model can create stunning visuals in seconds. It can mimic styles, generate ideas, and produce high-quality work. The speed and efficiency are unmatched. \n\nThis shift has left many designers feeling threatened. Job security is at risk. Many wonder if their skills will still be valued. \n\nI call it the \"Creative Disruption Effect\".\n\nThis powerful change impacts the art world in five critical ways:\n\u2192 Accessibility: Everyone can create art now.\u2192 Quality: AI produces high-quality images fast.\u2192 Variety: Countless styles and options are available.\u2192 Cost: Cheaper alternatives to hiring artists.\u2192 Competition: More creators in the market.\n\nEach of these elements brings challenges.\n\u2022 Increased accessibility = \"Oversaturation\"\n\u2022 Quality without effort = \"Devaluation\"\n\u2022 Endless variety = \"Confusion\"\n\u2022 Lower costs = \"Reduced earnings\"\n\u2022 More competition = \"Struggle for visibility\"\n\nHere\u2019s how to thrive in this new world:\n\n1/ Embrace technology:\u21b3 Learn to use AI tools to enhance your work \u21b3 Combine your creativity with AI\u2019s power\n\n2/ Focus on storytelling:\u21b3 Create art with a unique narrative \u21b3 Connect with your audience on a deeper level\n\n3/ Build a personal brand:\u21b3 Showcase your style and personality\u21b3 Stand out in a crowded market\n\n4/ Collaborate:\u21b3 Work with other artists and tech experts.\u21b3 Create something new and exciting\n\n5/ Keep learning:\u21b3 Stay updated on trends and tools\u21b3 Make YOU + AI your personal brand!\n\nThe future belongs not to AI alone, but to those who best leverage the collaboration between \"human ingenuity\" and \"artificial intelligence\"",
+        "engagement": 122,
+        "line_count": 37,
+        "topic": "The impact of OpenAI's image generation model on designers and illustrators, and how they can thrive in a changing creative landscape",
+        "tags": [
+            "AI in Design",
+            "Future of Creativity"
+        ]
+    },
+    {
+        "caption": "While I enjoy my Studio-Ghibling phase, you can check out my podcast with Thomas Wolf on my YT channel: https://lnkd.in/dnMW26RX\n\nPS: If you are feeling adventurous, you can screenshot your favorite moment from the podcast, \"Studio Ghibli\" stylize it on ChatGPT-GPT4o and post below with your thoughts \ud83d\ude04",
+        "engagement": 90,
+        "line_count": 2,
+        "topic": "Discussing Studio Ghibli in a podcast on YouTube",
+        "tags": [
+            "Studio Ghibli",
+            "Podcast"
+        ]
+    },
+    {
+        "caption": "I spent hours trying to get GPT-4o to generate a perfect deepfake of my own face.\n\nAnd it refused.\n\nThat moment reminded me of something important: Responsible AI matters \u203c\ufe0f\n\nEspecially as we move toward a future where creating almost anything online is just a few clicks away.\n\nWe\u2019re entering a new era\u2014Where the power to build, manipulate, and influence is becoming democratized.\n\nAnd that raises a big question:\n\nWhere do you see the biggest potential (and risks) in the world of AI-generated imagery?",
+        "engagement": 125,
+        "line_count": 8,
+        "topic": "The importance of responsible AI in a future with democratized power to build and influence",
+        "tags": [
+            "AI",
+            "Deepfake"
+        ]
+    },
+    {
+        "caption": "Podcast with Thomas Wolf, co-founder Hugging Face dropping tomorrow morning 8am PT!\n\n----------\nFollow me (Aishwarya Srinivasan) and click on the \ud83d\udd14 icon on my profile to get updates when I post \u2764\ufe0f",
+        "engagement": 278,
+        "line_count": 2,
+        "topic": "Upcoming podcast with Thomas Wolf, co-founder of Hugging Face",
+        "tags": [
+            "Hugging Face",
+            "Podcast"
+        ]
+    },
+    {
+        "caption": "All You Need to Learn About AI Agents \ud83e\udd16\n\nI've recently checked out the comprehensive e-book \"Mastering AI Agents\" by Pratik Bhavsar at Galileo\ud83d\udd2d , an excellent resource exploring the practical applications and deep technical insights of AI agents powered by Large Language Models (LLMs).\n\n\u2192 \ud835\uddea\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddee\ud835\uddff\ud835\uddf2 \ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00\nAI agents use LLMs to autonomously execute complex tasks, make decisions, and dynamically interact with external tools and data.\n\n\u2192 \ud835\uddd7\ud835\uddf6\ud835\uddf3\ud835\uddf3\ud835\uddf2\ud835\uddff\ud835\uddf2\ud835\uddfb\ud835\ude01 \ud835\udde7\ud835\ude06\ud835\uddfd\ud835\uddf2\ud835\ude00 \ud835\uddfc\ud835\uddf3 \ud835\uddd4\ud835\udddc \ud835\uddd4\ud835\uddf4\ud835\uddf2\ud835\uddfb\ud835\ude01\ud835\ude00:\n\u21b3 Fixed Automation Agents\n\u21b3 LLM-Enhanced Agents\n\u21b3 ReAct Agents\n\u21b3 ReAct + RAG Agents\n\u21b3 Tool-Enhanced Agents\n\u21b3 Memory-Enhanced Agents\n\n\u2192 \ud835\udde5\ud835\uddf2\ud835\uddf0\ud835\uddfc\ud835\uddfa\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\uddf1\ud835\uddf2\ud835\uddf1 \ud835\uddd9\ud835\uddff\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\ude04\ud835\uddfc\ud835\uddff\ud835\uddf8\ud835\ude00\n\u21b3 LangGraph\n\u21b3 AutoGen\n\u21b3 CrewAI\n\n\u2192 \ud835\uddd6\ud835\uddf5\ud835\uddee\ud835\uddf9\ud835\uddf9\ud835\uddf2\ud835\uddfb\ud835\uddf4\ud835\uddf2\ud835\ude00 & \ud835\udde6\ud835\uddfc\ud835\uddf9\ud835\ude02\ud835\ude01\ud835\uddf6\ud835\uddfc\ud835\uddfb\ud835\ude00\n\u21b3 Infinite Loops, Cost, Context Accuracy\n\n\ud83d\udcd5 Download the full e-book here: https://shorturl.at/hmIuH\n\nShare this with your network \u267b\ufe0f",
+        "engagement": 822,
+        "line_count": 15,
+        "topic": "Introduction to AI Agents and their applications powered by Large Language Models",
+        "tags": [
+            "AI Agents",
+            "Large Language Models"
+        ]
+    },
+    {
+        "caption": "I often hear ambitious people say, \"I want to be the next Steve Jobs,\" or \"I'm going to be the next Jensen Huang,\" or even \"I aspire to be the next Mark Zuckerberg.\"\n\nWhile it's admirable to draw inspiration from great minds, there's a fundamental flaw in this mindset.\n\nNone of these groundbreaking leaders became who they are by trying to replicate someone else's path. They became great precisely because they embraced their unique perspectives, leveraged their own superpowers, and built authentic personal brands.\n\nTrying to become the next someone else robs you of your greatest strength: being authentically YOU.\n\nDon't strive to become the next somebody. Commit to becoming the first YOU.",
+        "engagement": 361,
+        "line_count": 9,
+        "topic": "Embracing individuality and authenticity is key to success, rather than trying to replicate others",
+        "tags": [
+            "Personal Development",
+            "Leadership"
+        ]
+    },
+    {
+        "caption": "Austin Starks this is an open platform and everyone has the right to post what they like/ what they believe. Name calling/ policing people's post just shows the bitter nature of yours. There is a respectful way to share your thoughts :)\n\nI checked out the blog you shared, and while it shows that v3-0324 performs poorly for \"your selected\" use-case it DOES NOT take away the fact that it performed exceptionally well on the non-reasoning model benchmarks.\n\nWhile you are entitled to your opinions, facts speak louder than your opinions!",
+        "engagement": 35,
+        "line_count": 5,
+        "topic": "Respecting differing opinions and focusing on facts",
+        "tags": [
+            "RespectfulDialogue",
+            "FactBasedDiscussion"
+        ]
+    },
+    {
+        "caption": "\ud83d\udea8 BREAKING: Open source AI just hit a major milestone!\n\nAnd it\u2019s called DeepSeek V3-0324.\n\nFor the first time ever\u2014 An open weights model is the top-performing non-reasoning model in the world, surpassing even proprietary giants like Gemini 2.0 Pro, GPT 4.5 (preview) and Claude 3.7 Sonnet.\n\n\ud83d\udccd DeepSeek V3-0324 is a huge checkpoint update to their already strong V3 release.\n\nWith a 7-point surge in the Artificial Analysis Intelligence Index, it\u2019s now the fastest and best-performing non-reasoning model out there.\n\nFireworks AI supports DeepSeek v3-0324 deployment. If you are an AI Engineer building applications using LLM, go check it out.",
+        "engagement": 176,
+        "line_count": 7,
+        "topic": "DeepSeek V3-0324 becomes the top-performing non-reasoning model in the world",
+        "tags": [
+            "Artificial Intelligence",
+            "DeepSeek V3-0324"
+        ]
+    },
+    {
+        "caption": "Our co-founder and CEO, Lin Qiao, took the stage at HumanX to deliver a powerful keynote on the future of open-source AI.\n\nShe spotlighted DeepSeek R1 and shared why open-source models aren\u2019t just alternatives\u2014they\u2019re the foundation for the next wave of AI innovation.\n\nCatch her full keynote here: https://lnkd.in/gCU7bqq8",
+        "engagement": 75,
+        "line_count": 3,
+        "topic": "CEO Lin Qiao discusses the future of open-source AI at HumanX",
+        "tags": [
+            "AI Innovation",
+            "Open-Source AI"
+        ]
+    },
+    {
+        "caption": "\ud83d\udea8 This Week in AI - 23rd March 2025!\n\n6 most important things you need to know from this week in AI:\n\u2192 Google Takes on OpenAI with a 100 Day of AI Sprint\n\u2192 MIT revolutionizes AI image generation\n\u2192 Microsoft unveils Phi-4\n\u2192 NVIDIA GTC 2025 Highlights\n\u2192 NVIDIA acquires Gretel\n\u2192 New system proposed for AI flaw reporting\n\nFull blog: https://lnkd.in/dd9em4fp",
+        "engagement": 144,
+        "line_count": 9,
+        "topic": "This week's top AI news and updates",
+        "tags": [
+            "AI",
+            "Machine Learning"
+        ]
+    },
+    {
+        "caption": "Curious about the difference between AI automation and AI agents\u2014and how each impacts your business?\n\nAI automation handles repetitive tasks. AI agents are adaptive and autonomous.\n\nHere\u2019s how each impacts:\n\u2460 Sales: instant lead insights\n\u2461 Marketing: hyper-personalization\n\u2462 RevOps: predictive analytics\n\nTips:\n\u2705 Start small\n\u2705 Clean your data\n\u2705 Get teams involved early\n\nFree webinar by Zapier: https://bit.ly/4i4wJ34",
+        "engagement": 217,
+        "line_count": 11,
+        "topic": "Understanding the difference between AI automation and AI agents and their impact on business",
+        "tags": [
+            "AI Automation",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "caption": "One of the big announcements from Jensen's keynote at GTC was the launch of an enhanced Fireworks AI enterprise inference platform, fully integrated with NVIDIA NIM technology.\n\nI'm super excited for our enterprise customers to benefit from this launch when pushing the frontier to own their AI!\n\nFull announcement: https://lnkd.in/eWRPWWY5",
+        "engagement": 456,
+        "line_count": 3,
+        "topic": "NVIDIA launches enhanced Fireworks AI enterprise inference platform",
+        "tags": [
+            "AI",
+            "NVIDIA"
+        ]
+    },
+    {
+        "caption": "When I started my master's in the U.S., the academic system felt completely alien compared to India.\n\nIn India, it's lectures + memorization. In the U.S., it's all about active participation, projects, and real-world readiness.\n\nThat's why I support Futurense Technologies US Pathway. A hybrid path starting in India (IIT/IIM) and finishing in the U.S., with scholarships and no GRE/GMAT.\n\nDetails: https://lnkd.in/d46TVYKb",
+        "engagement": 1416,
+        "line_count": 4,
+        "topic": "Support for Futurense Technologies US Pathway for master's education",
+        "tags": [
+            "US Education",
+            "Indian Students Abroad"
+        ]
+    },
+    {
+        "caption": "This is my biggest advice to new graduates \ud83d\udc47\n\nWelcome to the real world\u2014it sucks, you\u2019re gonna love it! (AI Edition \ud83d\ude02)\n\n1\ufe0f\u20e3 Communication\n2\ufe0f\u20e3 Collaboration\n3\ufe0f\u20e3 Curiosity\n4\ufe0f\u20e3 Coding\n5\ufe0f\u20e3 Agentic AI\n6\ufe0f\u20e3 Multimodal AI\n7\ufe0f\u20e3 Ethics\n8\ufe0f\u20e3 Infrastructure\n9\ufe0f\u20e3 Business impact\n10\ufe0f\u20e3 Growth mindset\n\nFollow me for more guides like this!",
+        "engagement": 1126,
+        "line_count": 12,
+        "topic": "Advice for new graduates in the AI field",
+        "tags": [
+            "AI",
+            "CareerAdvice"
+        ]
+    },
+    {
+        "caption": "NVIDIA GTC 2025 just wrapped up!\n\nHere are my favorite announcements:\n1\ufe0f\u20e3 Blackwell Ultra Chips \u2013 50% faster\n2\ufe0f\u20e3 Vera Rubin \u2013 lower cost compute\n3\ufe0f\u20e3 Dynamo OS \u2013 better deployments\n4\ufe0f\u20e3 Isaac GR00T N1 \u2013 humanoid robot\n5\ufe0f\u20e3 Quantum Lab with Harvard + MIT\n6\ufe0f\u20e3 AI Factories and Agentic AI\n\nAlso\u2026 Fireworks AI \u00d7 NVIDIA partnership is official \ud83d\udd25",
+        "engagement": 4135,
+        "line_count": 9,
+        "topic": "NVIDIA GTC 2025 announcements and partnerships",
+        "tags": [
+            "NVIDIA GTC",
+            "AI Technology"
+        ]
+    },
+    {
+        "caption": "Fireworks AI matches DeepSeek pricing for R1, with secure deployments in EU and US\n\n\ud83d\udca1 Base DeepSeek R1: high-quality throughput for real-time apps\n\ud83d\ude80 Ultra-Fast DeepSeek R1: 130 tokens/sec\n\u26a1 Fast DeepSeek R1: 90 tokens/sec\n\nWith FireAttention + tailored inference, we\u2019re pushing for speed and cost-efficiency in agentic products.\n\nExplore: https://lnkd.in/edJh9MXb",
+        "engagement": 48,
+        "line_count": 6,
+        "topic": "Fireworks AI matches DeepSeek pricing with secure deployments",
+        "tags": [
+            "AI",
+            "DeepSeek"
+        ]
+    },
+    {
+        "caption": "\u201cToo talkative.\u201d\n\nThat was one of the most common remarks on my school report cards. I was always expressive, curious, and eager.\n\nInstead of channeling it into debate or creative activities, I was told to tone it down.\n\nLater in life, I realized: That trait was my superpower. \ud83d\udcab\n\nYour uniqueness is your edge. Invest in it. Share it. Shine with it.",
+        "engagement": 297,
+        "line_count": 6,
+        "topic": "Embracing individuality and uniqueness as a strength",
+        "tags": [
+            "SelfEmpowerment",
+            "PersonalGrowth"
+        ]
+    },
+    {
+        "caption": "2025 isn't just about AI agents\u2014it's about the synergy of Human \u00d7 AI.\n\nAt Adobe Summit, I saw:\n1\ufe0f\u20e3 Agentic AI for strategic execution\n2\ufe0f\u20e3 Unified AI orchestration via Adobe Experience Platform\n3\ufe0f\u20e3 Generative AI for video and 3D\n4\ufe0f\u20e3 Conversational Analytics\n\nHuman + AI = Next-level productivity. Let\u2019s build this future together.",
+        "engagement": 368,
+        "line_count": 6,
+        "topic": "The synergy of Human and AI for next-level productivity",
+        "tags": [
+            "AI",
+            "Adobe Summit"
+        ]
+    },
+    {
+        "caption": "Researchers just published \"The Moore's Law\" of AI usefulness.\n\nAI is doubling the length of tasks it can handle (at 50% accuracy) every 7 months for the last 6 years.\n\nNow? Claude 3.7 handles 1 hour. In 10 years? Weeks.\n\nSource: https://lnkd.in/gE3WwRHM",
+        "engagement": 140,
+        "line_count": 5,
+        "topic": "AI usefulness is doubling every 7 months",
+        "tags": [
+            "AI",
+            "Moore's Law"
+        ]
+    },
+    {
+        "caption": "This morning, I sat in awe during Jensen Huang's keynote at NVIDIA GTC!\n\nHighlights:\n\ud83d\udc49 Agentic AI: Machines that reason\n\ud83d\udc49 AI Factories: Producing tokens\n\ud83d\udc49 Blackwell Chips: 40x boost\n\ud83d\udc49 Robotics: Human-level interaction\n\ud83d\udc49 Fireworks AI \u00d7 NVIDIA NIM announced \ud83d\udd25\n\nWe\u2019ve officially entered a new chapter of intelligent systems.",
+        "engagement": 850,
+        "line_count": 7,
+        "topic": "NVIDIA GTC keynote highlights advancements in AI and robotics",
+        "tags": [
+            "Artificial Intelligence",
+            "NVIDIA GTC"
+        ]
+    },
+    {
+        "caption": "We're thrilled to announce a groundbreaking integration \ud83d\ude80\n\nFireworks AI now seamlessly integrates with NVIDIA NIM microservices, powered by NVIDIA AI Enterprise.\n\n\u2192 Supercharge inference with DeepSeek, Llama\n\u2192 Use embeddings, 3D modeling, and more\n\u2192 Plug in Nemotron Reasoning models with ease\n\nLearn more: https://lnkd.in/dtndSbhv",
+        "engagement": 113,
+        "line_count": 6,
+        "topic": "Fireworks AI integrates with NVIDIA NIM microservices for enhanced AI capabilities",
+        "tags": [
+            "AI",
+            "NVIDIA"
+        ]
+    },
+    {
+        "caption": "Wondering how AI Agents work?\n\nHere's the 6-step architecture most use:\n1\ufe0f\u20e3 Perception (inputs)\n2\ufe0f\u20e3 Processing (understand context)\n3\ufe0f\u20e3 Reasoning + Planning\n4\ufe0f\u20e3 Execution (actions)\n5\ufe0f\u20e3 Learning (from feedback)\n6\ufe0f\u20e3 Adaptation (real-time tuning)\n\nTop tools:\n\u2192 AutoGen\n\u2192 LangChain\n\u2192 CrewAI\n\u2192 SmolAgents\n\nStart building portfolio projects today!",
+        "engagement": 215,
+        "line_count": 11,
+        "topic": "Understanding the 6-step architecture of AI Agents and top tools for building portfolio projects",
+        "tags": [
+            "AI Agents",
+            "Machine Learning"
+        ]
+    },
+    {
+        "caption": "Heading to GTC 2025? Let\u2019s meet :)\n\nFireworks AI & Turing are hosting a special GenAI Networking Night!\n\ud83d\udcc5 March 19 | \ud83d\udd52 5\u20137 PM\n\ud83d\udccd Paper Plane, San Jose\n\nCome for the cocktails, stay for the conversations \ud83c\udf78\n\nRSVP: https://lnkd.in/dadsuFWZ",
+        "engagement": 45,
+        "line_count": 6,
+        "topic": "Networking Night at GTC 2025",
+        "tags": [
+            "Artificial Intelligence",
+            "GTC 2025"
+        ]
+    },
+    {
+        "caption": "What is Data Intelligence and how should you leverage it?\n\nData Intelligence goes beyond analytics\u2014it's about actionable insights, context, and real-time decision making.\n\nThe secret weapon? The Semantic Layer \ud83d\udd0d\n\u2714 Text-to-SQL accuracy\n\u2714 Data accessibility for all teams\n\u2714 Open standards for flexibility\n\u2714 Integration with Generative BI\n\nCheck out the upcoming AtScale + Databricks webinar on this:\n\ud83d\udcc5 March 26, 2025\n\ud83d\udd51 2PM ET / 11AM PT\nhttps://bit.ly/3F0lhXL",
+        "engagement": 112,
+        "line_count": 9,
+        "topic": "Leveraging Data Intelligence for actionable insights and real-time decision making",
+        "tags": [
+            "Data Intelligence",
+            "Semantic Layer"
+        ]
+    },
+    {
+        "caption": "What is Data Intelligence and how should you leverage it?\n\nData Intelligence is redefining how successful organizations make decisions. It goes beyond traditional data analytics by integrating deep insights, context, and actionable intelligence directly into business workflows.\n\nAt the core of effective Data Intelligence lies a crucial yet often underutilized element: the Semantic Layer.\n\nHere\u2019s why the semantic layer matters:\n\u2714 Text-to-SQL Accuracy\n\u2714 Data Accessibility\n\u2714 Open Standards\n\u2714 Generative BI Integration\n\n\ud83d\udcc5 March 26, 2025 | AtScale + Databricks Webinar\nhttps://bit.ly/3F0lhXL",
+        "engagement": 112,
+        "line_count": 9,
+        "topic": "Leveraging Data Intelligence for informed decision making",
+        "tags": [
+            "Data Intelligence",
+            "Business Analytics"
+        ]
+    },
+    {
+        "caption": "Wondering how AI Agents work?\n\nAI agents follow 6 key stages:\n1\ufe0f\u20e3 Perception (Input collection)\n2\ufe0f\u20e3 Data Processing\n3\ufe0f\u20e3 Decision Making\n4\ufe0f\u20e3 Action Execution\n5\ufe0f\u20e3 Learning\n6\ufe0f\u20e3 Feedback & Adaptation\n\nTools to explore:\n\u2192 Microsoft AutoGen\n\u2192 LangChain\n\u2192 CrewAI\n\u2192 SmolAgents\n\nBuild, test, and learn. Start now \ud83d\udca1",
+        "engagement": 215,
+        "line_count": 11,
+        "topic": "Understanding how AI Agents work and their key stages",
+        "tags": [
+            "AI Agents",
+            "Machine Learning"
+        ]
+    },
+    {
+        "caption": "What is Data Intelligence and how should you leverage it?\n\nThe missing link in many analytics stacks is the Semantic Layer.\n\nWith a robust semantic layer:\n\u2192 Text-to-SQL becomes accurate\n\u2192 Everyone can access insights\n\u2192 Open standards improve flexibility\n\u2192 Transitioning to Generative BI is easier\n\nJoin AtScale + Databricks to learn more \ud83d\udcc5 March 26\nhttps://bit.ly/3F0lhXL",
+        "engagement": 112,
+        "line_count": 7,
+        "topic": "Leveraging Data Intelligence with a robust semantic layer",
+        "tags": [
+            "Data Intelligence",
+            "Semantic Layer"
+        ]
+    },
+    {
+        "caption": "Heading to GTC 2025? Let\u2019s meet!\n\nFireworks AI & Turing are co-hosting a Generative AI Gathering \ud83c\udf89\n\ud83d\udccd Paper Plane, San Jose\n\ud83d\udcc5 March 19 | \ud83d\udd54 5\u20137 PM\n\nNetwork with LLM builders and GenAI experts over handcrafted cocktails. \ud83c\udf78\n\nSpots are limited \u2192 https://lnkd.in/dadsuFWZ",
+        "engagement": 45,
+        "line_count": 6,
+        "topic": "Generative AI Gathering at GTC 2025",
+        "tags": [
+            "Artificial Intelligence",
+            "Generative AI"
+        ]
+    },
+    {
+        "caption": "Fireworks AI now integrates with NVIDIA NIM microservices!\n\n\ud83d\udca5 Instant access to:\n\u2192 Embeddings, 3D modeling, video processing\n\u2192 High-performance inference using DeepSeek, Llama\n\u2192 Plug-and-play Reasoning with Nemotron models\n\nMore at: https://lnkd.in/dtndSbhv",
+        "engagement": 113,
+        "line_count": 5,
+        "topic": "Fireworks AI integrates with NVIDIA NIM microservices for enhanced AI capabilities",
+        "tags": [
+            "AI Integration",
+            "NVIDIA NIM"
+        ]
+    }
+]
