@@ -69,11 +69,11 @@ def get_unified_tags(posts_with_metadata):
 
 def extract_metadata(post):
     template = '''
-    You are given a LinkedIn Post. You need to extract number of lines, Topic of the post based on the caption and tags.
+    You are given a LinkedIn Post. You need to extract number of lines, tags and Language of post.
     1. Return a valid JSON. No preamble.
-    2. JSON object shpuld have exactly hree keys: line_count, topic and tags.
+    2. JSON object shpuld have exactly three keys: line_count, language and tags.
     3. tags is an array of text tags. Extract maximum two tags, don't return something blank give atleast two tags
-    4. Topic should be one liner, something which summarizes the entire caption.
+    4. Language should be English or Hindi.
 
     Here is the actual post on which you need to perform this task:
     {post}
