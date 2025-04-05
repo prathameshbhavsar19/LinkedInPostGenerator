@@ -31,8 +31,8 @@ The tool works in two main stages:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/project-genai-post-generator.git
-cd project-genai-post-generator
+git clone https://github.com/prathameshbhavsar19/LinkedInPostGenerator.git
+cd LinkedInPostGeneator
 ```
 
 ### 2. Create and Activate a Virtual Environment
